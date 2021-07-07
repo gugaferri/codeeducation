@@ -1,2 +1,2 @@
-For execute
+To execute
 docker run --rm gugaferri/codeeducation
