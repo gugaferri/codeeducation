@@ -1,3 +1,4 @@
+#teste
 FROM golang:alpine as build
 
 WORKDIR /usr/local/go/src
